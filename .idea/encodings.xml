@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/sbquartz-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sbquartz-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sbquartz-entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sbquartz-mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sbquartz-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sbquartz-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sbquartz-service-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sbquartz-web" charset="UTF-8" />
+  </component>
+</project>

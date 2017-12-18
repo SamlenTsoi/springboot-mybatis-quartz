@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sbquartz-common" />
+        <module name="sbquartz-core" />
+        <module name="sbquartz-entity" />
+        <module name="sbquartz-service" />
+        <module name="sbquartz-service-api" />
+        <module name="sbquartz-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sbquartz" target="1.5" />
+      <module name="sbquartz-api" target="1.8" />
+      <module name="sbquartz-common" target="1.8" />
+      <module name="sbquartz-core" target="1.8" />
+      <module name="sbquartz-entity" target="1.8" />
+      <module name="sbquartz-mybatis" target="1.8" />
+      <module name="sbquartz-parent" target="1.8" />
+      <module name="sbquartz-service" target="1.8" />
+      <module name="sbquartz-service-api" target="1.8" />
+      <module name="sbquartz-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

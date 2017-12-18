@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sbquartz.iml" filepath="$PROJECT_DIR$/sbquartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sbquartz-common/sbquartz-common.iml" filepath="$PROJECT_DIR$/sbquartz-common/sbquartz-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sbquartz-common/sbquartz-common.iml" filepath="$PROJECT_DIR$/sbquartz-common/sbquartz-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sbquartz-core/sbquartz-core.iml" filepath="$PROJECT_DIR$/sbquartz-core/sbquartz-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sbquartz-core/sbquartz-core.iml" filepath="$PROJECT_DIR$/sbquartz-core/sbquartz-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sbquartz-entity/sbquartz-entity.iml" filepath="$PROJECT_DIR$/sbquartz-entity/sbquartz-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sbquartz-entity/sbquartz-entity.iml" filepath="$PROJECT_DIR$/sbquartz-entity/sbquartz-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sbquartz-parent/sbquartz-parent.iml" filepath="$PROJECT_DIR$/sbquartz-parent/sbquartz-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sbquartz-parent/sbquartz-parent.iml" filepath="$PROJECT_DIR$/sbquartz-parent/sbquartz-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sbquartz-service/sbquartz-service.iml" filepath="$PROJECT_DIR$/sbquartz-service/sbquartz-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sbquartz-service/sbquartz-service.iml" filepath="$PROJECT_DIR$/sbquartz-service/sbquartz-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sbquartz-service-api/sbquartz-service-api.iml" filepath="$PROJECT_DIR$/sbquartz-service-api/sbquartz-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sbquartz-service-api/sbquartz-service-api.iml" filepath="$PROJECT_DIR$/sbquartz-service-api/sbquartz-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sbquartz-web/sbquartz-web.iml" filepath="$PROJECT_DIR$/sbquartz-web/sbquartz-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sbquartz-web/sbquartz-web.iml" filepath="$PROJECT_DIR$/sbquartz-web/sbquartz-web.iml" />
+    </modules>
+  </component>
+</project>
